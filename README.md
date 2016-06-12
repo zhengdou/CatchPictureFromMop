@@ -1,2 +1,5 @@
-# CatchPictureFromMop
-catch the picture from website mop
+# 获取猫扑的图片  
+1. 找出所要爬取页面的链接
+2. 从页面中找出可以继续爬取得链接放入待爬取的列表中
+3. 从该页面中爬取图片
+4. 将图片保存到本地
